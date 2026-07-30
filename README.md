@@ -1,9 +1,5 @@
 # Victoria Filippova
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
-</p>
-
 ## Profile
 
 | ╰┈➤ |  |
@@ -11,17 +7,6 @@
 | **qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **focus area** | Развиваюсь в сфере 🇦🇮, аналитики и разработки |
 | **about me** | Проектирую и создаю интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт в fullstack-разработке web-приложений и анализе процессов заказчика. Нацелена на создание передовых решений, которые будут приносить пользу за счет оптимизации архитектуры и внедрения современных инструментов. |
-
----
-
-## 🛠 Technologies & Progress
-
-| Technology / Domain | Progress Bar |
-| :--- | :--- |
-| **AI Technologies & Prompt Eng.** | <progress value="80" max="100"></progress> |
-| **Data Analytics & BI** | <progress value="75" max="100"></progress> |
-| **Backend (C# / Node.js)** | <progress value="90" max="100"></progress> |
-| **Frontend & GIS** | <progress value="85" max="100"></progress> |
 
 ---
 
