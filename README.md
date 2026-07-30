@@ -1,7 +1,7 @@
 # Victoria Filippova
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake" />
+  <img src="https://github.com" alt="GitHub Contribution Snake" />
 </p>
 
 ## Profile
