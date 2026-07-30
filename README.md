@@ -48,7 +48,7 @@
 ## Active Commercial/Academic Experiments
 
 <details>
-<summary>✮⋆˙ <b>map2gov-weather-microservice</b> (Выпускная квалификационная работа для ООО «Дорнадзор»)</summary>
+<summary>✮ <b>map2gov-weather-microservice</b> (Выпускная квалификационная работа для ООО «Дорнадзор»)</summary>
 <br>
 
 ```diff
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary>⋆˙⟡ <b>bia-data-aggregation-system</b> (Стажировка в BIA Technologies)</summary>
+<summary>⟡ <b>bia-data-aggregation-system</b> (Стажировка в BIA Technologies)</summary>
 <br>
 
 ```diff
@@ -78,7 +78,7 @@
 </details>
 
 <details>
-<summary>.✦ ݁˖ <b>geometry-corporate-platform</b> (Коммерческий кейс ООО «Геометрия»)</summary>
+<summary>✦ <b>geometry-corporate-platform</b> (Коммерческий кейс ООО «Геометрия»)</summary>
 <br>
 
 ```diff
