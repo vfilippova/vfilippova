@@ -1,17 +1,17 @@
 # Victoria Filippova
 
 <p align="center">
-  <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; font-size: 20px; color: #7A26C1; font-weight: bold;">
+    ИИ-технологии  |  Аналитика  |  Разработка  •  AI Technologies  |  Analytics  |  Development
+  </marquee>
 </p>
 
 ## Profile Model Card
 
-| Parameter | Value / System Status |
+| Parameter | Value |
 | :--- | :--- |
 | **Qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **Focus Area** | Развиваюсь в сфере ИИ-технологий, аналитики и разработки |
-| **AI Systems** | 🟩🟩🟩🟩🟩🟩🟩🟩🟪🟪 80% (Prompt Engineering, Agent Workflows) |
-| **Web Development** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟪 90% (Fullstack, Architecture, GIS) |
 | **AI Integration** | Certified Prompt Engineer (IBM) & Decision Maker (Netology) |
 
 ---
@@ -108,3 +108,5 @@
 * **ФТМИ ИТМО:** *Участник продуктового трека МегаШколы* — Проектирование MVP, маркетинг высокотехнологичных продуктов и технологический менеджмент.
 
 ---
+
+<p align="center"><i>"Code is just a tool, but data-driven architecture, AI systems and optimized processes last."</i></p>
