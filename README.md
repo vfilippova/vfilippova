@@ -2,7 +2,7 @@
 | ╰┈➤ |  |
 | :--- | :--- |
 | **qualification** | BSc in Information Systems and Technologies · ITMO University |
-| **focus area** | 🇦🇮, аналитики и разработки |
+| **focus area** | ai · management · web |
 
 ---
 
