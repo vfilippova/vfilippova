@@ -1,16 +1,12 @@
 # Victoria Filippova
 
-<p align="center">
-  <img src="https://vercel.app" width="400" alt="Top Languages" />
-</p>
-
 ## Profile
 
 | ╰┈➤ |  |
 | :--- | :--- |
 | **qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **focus area** | Развиваюсь в сфере 🇦🇮, аналитики и разработки |
-| **about me** | Проектирую и создаю интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт в Fullstack-разработке веб-приложений и анализе процессов заказчика. Нацелена на создание ИТ-решений, приносящих реальную пользу за счет оптимизации архитектуры и внедрения современных ИИ-инструментов. |
+| **about me** | Проектирую и создаю интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт в fullstack-разработке web-приложений и анализе процессов заказчика. Нацелена на создание передовых решений, которые будут приносить пользу за счет оптимизации архитектуры и внедрения современных инструментов. |
 
 ---
 
@@ -52,7 +48,7 @@
 ## Active Commercial/Academic Experiments
 
 <details>
-<summary>✮⋆˙ [SUCCESSFULLY DEFENDED] <b>map2gov-weather-microservice</b> (Выпускная квалификационная работа для ООО «Дорнадзор»)</summary>
+<summary>✮⋆˙ <b>map2gov-weather-microservice</b> (Выпускная квалификационная работа для ООО «Дорнадзор»)</summary>
 <br>
 
 ```diff
@@ -68,7 +64,7 @@
 </details>
 
 <details>
-<summary>⋆˙⟡ [CONCLUDED] <b>bia-data-aggregation-system</b> (Стажировка в BIA Technologies)</summary>
+<summary>⋆˙⟡ <b>bia-data-aggregation-system</b> (Стажировка в BIA Technologies)</summary>
 <br>
 
 ```diff
@@ -94,14 +90,6 @@
 ```
 
 </details>
-
----
-
-## GitHub Growth Dynamics
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
-</p>
 
 ---
 
