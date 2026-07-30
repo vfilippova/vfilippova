@@ -97,13 +97,3 @@
 * **Бизнес-эффект:** Запуск масштабируемой цифровой витрины «под ключ» для генерации лидов и привлечения клиентов.
 * **Статус:** `Интегрировано в инфраструктуру заказчика`
 </details>
-
-```bash
-\$ vfilippova --get-contacts
-
-[DATA RETRIEVED]
-> Telegram: https://t.me
-> Email:    wwwvifil26@mail.ru
-```
-
-<p align="center"><i>"Code is just a tool, but data-driven architecture, AI systems and optimized processes last."</i></p>
