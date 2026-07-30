@@ -1,16 +1,17 @@
 # Victoria Filippova
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://demolab.com" alt="Typing SVG" /></a>
+  <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
 </p>
 
 ## Profile Model Card
 
-| Parameter | Value |
+| Parameter | Value / System Status |
 | :--- | :--- |
 | **Qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **Focus Area** | Развиваюсь в сфере ИИ-технологий, аналитики и разработки |
-| **Status** | Active · Transforming messy business data into intelligent tech solutions |
+| **AI Systems** | 🟩🟩🟩🟩🟩🟩🟩🟩🟪🟪 80% (Prompt Engineering, Agent Workflows) |
+| **Web Development** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟪 90% (Fullstack, Architecture, GIS) |
 | **AI Integration** | Certified Prompt Engineer (IBM) & Decision Maker (Netology) |
 
 ---
@@ -97,3 +98,13 @@
 * **Бизнес-эффект:** Запуск масштабируемой цифровой витрины «под ключ» для генерации лидов и привлечения клиентов.
 * **Статус:** `Интегрировано в инфраструктуру заказчика`
 </details>
+
+---
+
+## Verified Certificates & Credentials
+
+* **IBM Skills Network:** *Prompt Engineering for Everyone* (A10117EN) — Системная работа с генеративным ИИ для решения прикладных задач.
+* **Нетология:** *Аналитика и ИИ в действии: как принимают решения в реальном бизнесе* (ANALYTICS-AI-BP-1) — Использование данных для стратегического управления.
+* **ФТМИ ИТМО:** *Участник продуктового трека МегаШколы* — Проектирование MVP, маркетинг высокотехнологичных продуктов и технологический менеджмент.
+
+---
