@@ -1,7 +1,7 @@
-# Victoria Filippova (vfilippova)
+# Victoria Filippova
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://demolab.com" alt="Typing SVG" /></a>
 </p>
 
 ## Profile Model Card
