@@ -1,19 +1,21 @@
 # Victoria Filippova
 
+<p align="center">
+  <img src="https://vercel.app" alt="Trophies" />
+</p>
+
 ## Profile Model Card
 
 | Parameter | Value |
 | :--- | :--- |
 | **Qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **Focus Area** | Развиваюсь в сфере ИИ-технологий, аналитики и разработки |
-| **Status** | Active · Transforming messy business data into intelligent tech solutions |
 | **AI Integration** | Certified Prompt Engineer (IBM) & Decision Maker (Netology) |
 
 ---
 
 # About Me
-
-Я выпускница Факультета информационных технологий и программирования (ФИТиП) **Университета ИТМО**. 
+Факультета информационных технологий и программирования (ФИТиП) **Университета ИТМО**. 
 
 **Развиваюсь в сфере ИИ-технологий, аналитики и разработки**. Мне интересно проектировать и создавать интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт как в Fullstack-разработке веб-приложений (создание серверной части, интеграция API, работа с базами данных), так и в анализе процессов заказчика. Нацелена на создание решений, которые приносят реальную пользу за счет оптимизации архитектуры и внедрения современных ИИ-инструментов.
 
@@ -57,10 +59,9 @@
 ## Active Commercial & Academic Experiments
 
 <details>
-<summary>System Logs: Projects Overview</summary>
+<summary>✮⋆˙ [SUCCESSFULLY DEFENDED] <b>map2gov-weather-microservice</b> (Выпускная квалификационная работа для ООО «Дорнадзор»)</summary>
 <br>
 
-✮⋆˙ `[SUCCESSFULLY DEFENDED]` **map2gov-weather-microservice**
 ```diff
 + Tech Stack: C# (ASP.NET Core) + Angular + PostGIS + MapLibre GL JS
 + Key Features:
@@ -69,37 +70,52 @@
 +   - Многопоточная пакетная обработка (Task.WhenAll, SemaphoreSlim).
 +   - Ротация пула из 10 ключей Яндекс.Геокодера с фоновой ревалидацией.
 + Business Value: Полная автоматизация метеоучета объектов дорожной сети при строгом соблюдении лимита внешнего API (1000 запросов/месяц).
-+ Project Status: Успешно защищен в Университете ИТМО
 ```
 
-⋆˙⟡ `[CONCLUDED]` **bia-data-aggregation-system**
+</details>
+
+<details>
+<summary>⋆˙⟡ [CONCLUDED] <b>bia-data-aggregation-system</b> (Стажировка в BIA Technologies)</summary>
+<br>
+
 ```diff
 + Tech Stack: React + Node.js + SQL + AG Grid
 + Key Features:
 +   - Разработка frontend-модулей для вывода финансовых таблиц высокой плотности данных.
 +   - Участие в проектировании отказоустойчивых эндпоинтов API.
 + Business Value: Ликвидация ручного сбора данных о транспортных бюджетах, кратное снижение времени генерации сквозной отчетности для топ-менеджмента.
-+ Project Status: Стажировка успешно завершена
 ```
 
-.✦ ݁˖ `[DEPLOYED]` **geometry-corporate-platform**
+</details>
+
+<details>
+<summary>.✦ ݁˖ [DEPLOYED] <b>geometry-corporate-platform</b> (Коммерческий кейс ООО «Геометрия»)</summary>
+<br>
+
 ```diff
 + Tech Stack: 1С-Битрикс + PHP + HTML5/CSS3
 + Key Features:
 +   - Верстка и интеграция кастомных компонентов под бизнес-требования заказчика.
 +   - Полное администрирование и развертывание платформы управления контентом.
 + Business Value: Запуск масштабируемой цифровой витрины «под ключ» для генерации лидов и привлечения клиентов.
-+ Project Status: Интегрировано в инфраструктуру заказчика
 ```
 
 </details>
 
 ---
 
+## GitHub Growth Dynamics
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
 ## Verified Certificates & Credentials
 
-* **IBM Skills Network:** *Prompt Engineering for Everyone* (A10117EN) — Системная работа с генеративным ИИ для решения прикладных задач.
+* **IBM Skills Network:** *Prompt Engineering for Everyone* — Системная работа с генеративным ИИ для решения прикладных задач.
 * **Нетология:** *Аналитика и ИИ в действии: как принимают решения в реальном бизнесе* (ANALYTICS-AI-BP-1) — Использование данных для стратегического управления.
-* **ФТМИ ИТМО:** *Участник продуктового трека МегаШколы* — Проектирование MVP, маркетинг высокотехнологичных продуктов и технологический менеджмент.
+* **МегаШколы:** *Участник продуктового трека ФТМИ* — Проектирование MVP, маркетинг высокотехнологичных продуктов и технологический менеджмент.
 
 ---
