@@ -1,25 +1,20 @@
 # Victoria Filippova
 
 <p align="center">
-  <img src="https://vercel.app" alt="Trophies" />
+  <img src="https://vercel.app" width="400" alt="Top Languages" />
 </p>
 
-## Profile Model Card
+## Profile
 
-| Parameter | Value |
+| Parameter | System Value / Overview |
 | :--- | :--- |
 | **Qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **Focus Area** | Развиваюсь в сфере ИИ-технологий, аналитики и разработки |
----
-
-# About Me
-
-Факультета информационных технологий и программирования (ФИТиП) **Университета ИТМО**. 
-**Развиваюсь в сфере ИИ-технологий, аналитики и разработки**. Мне интересно проектировать и создавать интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт как в Fullstack-разработке веб-приложений (создание серверной части, интеграция API, работа с базами данных), так и в анализе процессов заказчика. Нацелена на создание решений, которые приносят реальную пользу за счет оптимизации архитектуры и внедрения современных ИИ-инструментов.
+| **☕︎** | Проектирую и создаю интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт в Fullstack-разработке веб-приложений и анализе процессов заказчика. Нацелена на создание ИТ-решений, приносящих реальную пользу за счет оптимизации архитектуры и внедрения современных ИИ-инструментов. |
 
 ---
 
-## Core Competencies & Tech Stack
+## Stack
 
 ```json
 {
@@ -54,7 +49,7 @@
 
 ---
 
-## Active Commercial & Academic Experiments
+## Active Commercial/Academic Experiments
 
 <details>
 <summary>✮⋆˙ [SUCCESSFULLY DEFENDED] <b>map2gov-weather-microservice</b> (Выпускная квалификационная работа для ООО «Дорнадзор»)</summary>
@@ -87,7 +82,7 @@
 </details>
 
 <details>
-<summary>.✦ ݁˖ [DEPLOYED] <b>geometry-corporate-platform</b> (Коммерческий кейс ООО «Геометрия»)</summary>
+<summary>.✦ ݁˖ <b>geometry-corporate-platform</b> (Коммерческий кейс ООО «Геометрия»)</summary>
 <br>
 
 ```diff
