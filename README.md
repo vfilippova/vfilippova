@@ -1,6 +1,3 @@
-# Victoria Filippova
-
-## Profile
 
 | ╰┈➤ |  |
 | :--- | :--- |
