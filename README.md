@@ -1,5 +1,9 @@
 # Victoria Filippova
 
+<p align="center">
+  <img src="https://vercel.app" width="400" alt="Top Languages" />
+</p>
+
 ## Profile
 
 | ╰┈➤ |  |
@@ -90,6 +94,14 @@
 ```
 
 </details>
+
+---
+
+## GitHub Growth Dynamics
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
