@@ -1,7 +1,9 @@
 # Victoria Filippova
 
 <p align="center">
-  <img src="https://vercel.app" width="400" alt="Top Languages" />
+  <img src="https://shields.io" alt="AI" />
+  <img src="https://shields.io" alt="Analytics" />
+  <img src="https://shields.io" alt="Development" />
 </p>
 
 ## Profile
@@ -10,7 +12,8 @@
 | :--- | :--- |
 | **qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **focus area** | Развиваюсь в сфере 🇦🇮, аналитики и разработки |
-| **about me** | Проектирую и создаю интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт в fullstack-разработке web-приложений и анализе процессов заказчика. Нацелена на создание передовых решений, которые будут приносить пользу за счет оптимизации архитектуры и внедрения современных инструментов. |
+| **systems telemetry** | AI Systems: 🟩🟩🟩🟩🟩🟩🟩🟩🟪🟪 80%  \|  Fullstack: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟪 90% |
+| **about me** | Проектирую и создаю интеллектуальные системы, которые помогают бизнесу автоматизировать рутину и работать с данными. Имею опыт в fullstack-разработке web-приложений и анализе процессов заказчика. Нацелена на создание передовых решений, которые будут приносить пользы за счет оптимизации архитектуры и внедрения современных инструментов. |
 
 ---
 
@@ -94,14 +97,6 @@
 ```
 
 </details>
-
----
-
-## GitHub Growth Dynamics
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
-</p>
 
 ---
 
