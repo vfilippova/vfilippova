@@ -48,7 +48,7 @@
 ## Active Commercial/Academic Experiments
 
 <details>
-<summary>✮ <b>map2gov-weather-microservice</b> (погодный микросервис «Дорнадзор»)</summary>
+<summary>✮ <b>map2gove</b> (погодный микросервис «Дорнадзор»)</summary>
 <br>
 
 ```diff
