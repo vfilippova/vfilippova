@@ -1,17 +1,12 @@
 # Victoria Filippova
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; font-size: 20px; color: #7A26C1; font-weight: bold;">
-    ИИ-технологии  |  Аналитика  |  Разработка  •  AI Technologies  |  Analytics  |  Development
-  </marquee>
-</p>
-
 ## Profile Model Card
 
 | Parameter | Value |
 | :--- | :--- |
 | **Qualification** | BSc in Information Systems and Technologies · ITMO University |
 | **Focus Area** | Развиваюсь в сфере ИИ-технологий, аналитики и разработки |
+| **Status** | Active · Transforming messy business data into intelligent tech solutions |
 | **AI Integration** | Certified Prompt Engineer (IBM) & Decision Maker (Netology) |
 
 ---
@@ -62,41 +57,41 @@
 ## Active Commercial & Academic Experiments
 
 <details>
-<summary>✮⋆˙ <code>[SUCCESSFULLY DEFENDED]</code> <b>map2gov-weather-microservice</b> (Выпускная квалификационная работа для ООО «Дорнадзор»)</summary>
+<summary>System Logs: Projects Overview</summary>
 <br>
 
-* **Стек:** C# (ASP.NET Core) + Angular + PostGIS + MapLibre GL JS
-* **Инженерные решения:**
-  * Пространственная кластеризация точек DBSCAN по формуле гаверсинуса для минимизации нагрузки.
-  * Алгоритм автоматической оценки радиуса поиска соседей (Elbow Point).
-  * Многопоточная пакетная обработка (Task.WhenAll, SemaphoreSlim).
-  * Ротация пула из 10 ключей Яндекс.Геокодера с фоновой ревалидацией.
-* **Бизнес-эффект:** Полная автоматизация метеоучета объектов дорожной сети при строгом соблюдении лимита внешнего API (1000 запросов/месяц).
-* **Статус:** `Успешно защищен в Университете ИТМО`
-</details>
+✮⋆˙ `[SUCCESSFULLY DEFENDED]` **map2gov-weather-microservice**
+```diff
++ Tech Stack: C# (ASP.NET Core) + Angular + PostGIS + MapLibre GL JS
++ Key Features:
++   - Пространственная кластеризация точек DBSCAN по формуле гаверсинуса для минимизации нагрузки.
++   - Алгоритм автоматической оценки радиуса поиска соседей (Elbow Point).
++   - Многопоточная пакетная обработка (Task.WhenAll, SemaphoreSlim).
++   - Ротация пула из 10 ключей Яндекс.Геокодера с фоновой ревалидацией.
++ Business Value: Полная автоматизация метеоучета объектов дорожной сети при строгом соблюдении лимита внешнего API (1000 запросов/месяц).
++ Project Status: Успешно защищен в Университете ИТМО
+```
 
-<details>
-<summary>⋆˙⟡ <code>[CONCLUDED]</code> <b>bia-data-aggregation-system</b> (Стажировка в BIA Technologies)</summary>
-<br>
+⋆˙⟡ `[CONCLUDED]` **bia-data-aggregation-system**
+```diff
++ Tech Stack: React + Node.js + SQL + AG Grid
++ Key Features:
++   - Разработка frontend-модулей для вывода финансовых таблиц высокой плотности данных.
++   - Участие в проектировании отказоустойчивых эндпоинтов API.
++ Business Value: Ликвидация ручного сбора данных о транспортных бюджетах, кратное снижение времени генерации сквозной отчетности для топ-менеджмента.
++ Project Status: Стажировка успешно завершена
+```
 
-* **Стек:** React + Node.js + SQL + AG Grid
-* **Инженерные решения:**
-  * Разработка frontend-модулей для вывода финансовых таблиц высокой плотности данных.
-  * Участие в проектировании отказоустойчивых эндпоинтов API.
-* **Бизнес-эффект:** Ликвидация ручного сбора данных о транспортных бюджетах, кратное снижение времени генерации сквозной отчетности для топ-менеджмента.
-* **Статус:** `Стажировка успешно завершена`
-</details>
+.✦ ݁˖ `[DEPLOYED]` **geometry-corporate-platform**
+```diff
++ Tech Stack: 1С-Битрикс + PHP + HTML5/CSS3
++ Key Features:
++   - Верстка и интеграция кастомных компонентов под бизнес-требования заказчика.
++   - Полное администрирование и развертывание платформы управления контентом.
++ Business Value: Запуск масштабируемой цифровой витрины «под ключ» для генерации лидов и привлечения клиентов.
++ Project Status: Интегрировано в инфраструктуру заказчика
+```
 
-<details>
-<summary>.✦ ݁˖ <code>[DEPLOYED]</code> <b>geometry-corporate-platform</b> (Коммерческий кейс ООО «Геометрия»)</summary>
-<br>
-
-* **Стек:** 1С-Битрикс + PHP + HTML5/CSS3
-* **Инженерные решения:**
-  * Верстка и интеграция кастомных компонентов под бизнес-требования заказчика.
-  * Полное администрирование и развертывание платформы управления контентом.
-* **Бизнес-эффект:** Запуск масштабируемой цифровой витрины «под ключ» для генерации лидов и привлечения клиентов.
-* **Статус:** `Интегрировано в инфраструктуру заказчика`
 </details>
 
 ---
@@ -108,5 +103,3 @@
 * **ФТМИ ИТМО:** *Участник продуктового трека МегаШколы* — Проектирование MVP, маркетинг высокотехнологичных продуктов и технологический менеджмент.
 
 ---
-
-<p align="center"><i>"Code is just a tool, but data-driven architecture, AI systems and optimized processes last."</i></p>
